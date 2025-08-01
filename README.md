@@ -1,4 +1,4 @@
-# 👋🏾 Hi, I’m Sydney Johns
+# 👋🏾 Hi, I’m Sydney
 
 🎓 Ph.D. Student | 🔐 Cybersecurity Researcher | 🔧 Reverse Engineer  
 🏛️ Virginia Tech Innovation Campus | 🧠 GEM Fellow | 🧰 Hardware + AI + Embedded Systems
