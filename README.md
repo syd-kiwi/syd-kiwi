@@ -6,7 +6,7 @@ I'm a passionate researcher and hacker-in-training working at the intersection o
 
 ## 🔭 Current Projects
 
-- 🛡️ **Post-Quantum Cryptography**: Comparing SABER vs. BIKE on ARM, mobile, and desktop systems  
+- 🛡️ **Post-Quantum Cryptography**: Comparing SABER vs. BIKE on various processors 
 - 🧠 **AI Evaluation**: Developing military-relevant benchmarks to test LLM decision-making  
 - 🧪 **Reverse Engineering**: Teaching Ghidra + Arduino analysis at DEFCON’s Blacks in Cybersecurity Village  
 
